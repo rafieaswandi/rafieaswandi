@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafieaswandi
-- 👀 I’m interested in Android Developer
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me: muhammadrafieaswandi@gmail.com
 - 😄 Pronouns: He/him
